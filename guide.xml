@@ -8,10 +8,6 @@
     <display-name lang="pt">Record</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Record News">
-    <display-name lang="pt">Record News</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
   <channel id="Rede TV">
     <display-name lang="pt">Rede TV</display-name>
     <url>http://www.clarotv.com.br</url>
